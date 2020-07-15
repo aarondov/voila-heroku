@@ -5,3 +5,4 @@ altair
 matplotlib
 pandas 
 seaborn
+pandas_profiling
