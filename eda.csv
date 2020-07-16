@@ -1,4 +1,4 @@
-,revenues,Dollar Thresholds,Dollar Threshold ID,payor,age,agegroup,Patient Type
+ID,revenues,Dollar Thresholds,Dollar Threshold ID,payor,age,agegroup,Patient Type
 0,3860.0,"2,501-5,000",5,b,151.0,6 G151+,ER
 1,201.0,0-500,2,a,155.0,6 G151+,ER
 2,25.0,0-500,2,b,70.0,3G 61-90,ER
